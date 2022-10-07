@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>interface/icons/down.png</file>
+    <file>interface/icons/down_arrow.svg</file>
+    <file>interface/icons/up_arrow.svg</file>
+    <file>interface/icons/up.png</file>
+    <file>interface/icons/edit.png</file>
+    <file>interface/icons/add.png</file>
+    <file>interface/icons/delete.svg</file>
+  </qresource>
+</RCC>
