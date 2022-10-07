@@ -1,1 +1,2 @@
 # REWET-GUI
+Currenltly, the "Policy Designer" section is being developed. Any *.ui file is made with Designer and tehn are converted to *.py clases. For each UI python class made from .ui file,  *.py class is created which inhgrients the orginal UI class and add more functionallity to the window,  such as signal definitions. Please keep the style as it is easier to change 8.ui files without changeing the child class. 
